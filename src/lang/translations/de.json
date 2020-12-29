@@ -1,0 +1,320 @@
+{
+    "English": "English",
+    "Deutsch": "Deutsch",
+    "placeholder": {
+        "email": "E-Mail",
+        "name": "Name",
+        "password": "Passwort"
+    },
+    "header": {
+        "home": "Startseite",
+        "clothes": "Wälzlager",
+        "men": "Kugellager",
+        "women": "Rollenlager",
+        "search_for_catalog": "Durchsuchen Sie unseren Katalog",
+        "log_in_to_your_customer_account": "Melden Sie sich bei Ihrem Kundenkonto an",
+        "nadellager": "Nadellager",
+        "axiallager": "Axiallager",
+        "kombinierte_exial_radiallager": "Kombinierte Axial-/ Radiallager",
+        "laufrolle": "Laufrolle",
+        "lineartechnik": "Lineartechnik",
+        "gehause_einheiten": "Gehäuse/-Einheiten",
+        "gleitlager": "Gleitlager",
+        "keilriemen": "Keilriemen",
+        "rillenkugellager": "Rillenkugellager",
+        "achragkugellager_spindellager": "Schrägkugellager/ Spindellager",
+        "spannlager_gehauselager": "Spannlager/ Gehäuselager",
+        "kegelrollenlager": "Kegelrollenlager"
+    },
+    "login": {
+        "log_in_to_your_account": "Melde dich in deinem Konto an",
+        "sign_in": "Einloggen",
+        "email": "E-mail",
+        "password": "Passwort",
+        "no_account": "Kein Account?",
+        "create_one_here": "Erstellen Sie hier eine",
+        "forgot_your_password": "Passwort vergessen?",
+        "remember_me": "Behalte mich in Erinnerung",
+        "login": "Login"
+    },
+    "register": {
+        "register": "Registrieren",
+        "social_title": "Anrede",
+        "Mr": "Herr",
+        "Mrs": "Frau",
+        "first_name": "Vorname",
+        "last_name": "Name",
+        "email": "E-mail",
+        "password": "Passwort",
+        "birthday": "Geburtstag",
+        "eg": "z.B.",
+        "receive_offers_from_our_partners": "Erhalten Sie Angebote von unseren Partnern",
+        "sign_up_for_our_newsletter": "Abonnieren Sie unseren Newsletter",
+        "you_may_unsubscribe_at_any_moment_for_that_purpose_please_find_our_contact_info_in_the_legal_notice": "Sie können Ihr Einverständnis jederzeit widerrufen. Unsere Kontaktinformationen finden Sie u. a. in der Datenschutzerklärung.",
+        "i_accept_the_terms_an_conditions_and_the_privacy_policy": "Ich akzeptiere die Allgemeinen Geschäftsbedingungen und die Datenschutzrichtlinie",
+        "create_an_account": "Ein Konto erstellen",
+        "save": "sparen",
+        "already_have_an_account": "Sie haben bereits ein Konto?",
+        "log_in_instead": "Loggen Sie sich stattdessen ein!"
+    },
+    "password_recovery": {
+        "title": "Passwort vergessen?",
+        "email_address": "E-Mail-Adresse",
+        "description": "Bitte geben Sie die E-Mail-Adresse ein, mit der Sie sich registriert haben. Sie erhalten einen temporären Link zum Zurücksetzen Ihres Passworts.",
+        "send_link": "Reset-Link senden",
+        "send": "senden",
+        "email_sent": "Wenn diese E-Mail-Adresse in unserem Shop registriert wurde, erhalten Sie einen Link zum Zurücksetzen Ihres Passworts unter ",
+        "new_password": "Neues Kennwort",
+        "password_confirm": "Passwortbestätigung",
+        "change_password": "Passwort ändern",
+        "wrong_or_expired_link": "Die Anforderung eines neuen Passworts ist abgelaufen. Fordern Sie es noch einmal an.",
+        "back_to_login": "Zurück zur Anmeldeseite"
+    },
+    "account": {
+        "my_account": "Mein Konto",
+        "order_history": "Auftragsübersicht",
+        "offene_posten": "Offene Posten",
+        "merchandise_returns": "Warenrücksendung",
+        "addresses": "Adressen",
+        "information": "Information",
+        "personal_advisor": "Persona Advisor",
+        "compare": "Vergleichen Sie",
+        "my_wishlist": "Meine Wunschliste",
+        "contact_person": "Gesprächspartner",
+        "order_templates": "Bestellvorlagen",
+        "support": "Hilfe",
+        "contact_us": "KONTAKTIEREN SIE UNS",
+        "rank": "Rang",
+        "log_out": "Abmelden",
+        "order_reference": "Bestellnummer",
+        "date": "Datum",
+        "total_price": "Gesamtpreis",
+        "payment": "Zahlung",
+        "invoice": "Rechnung",
+        "details": "Details",
+        "new_address": "Neue Adresse",
+        "update_your_address": "Aktualisieren Sie Ihre Adresse",
+        "alias": "Alias",
+        "first_name": "Vorname",
+        "last_name": "Nachname",
+        "company": "Unternehmen",
+        "phone": "Telefon",
+        "address": "Adresse",
+        "address_code": "Adresse Code",
+        "zip_postal_code": "Postleitzahl",
+        "city": "Stadt",
+        "country": "Land",
+        "select_region": "Region wählen",
+        "select_country": "Land auswählen",
+        "vat_number": "Umsatzsteuer-Identifikationsnummer",
+        "save": "speichern",
+        "create_address": "Neue Adresse erstellen",
+        "countrySelectorLabel": "Landesvorwahl",
+        "countrySelectorError": "Wähle ein Land",
+        "phoneNumberLabel": "Telefonnummer",
+        "example": "Beispiel :"
+    },
+    "order": {
+        "delivery_and_billing_address": "Liefer- und Rechnungsadresse",
+        "shipping_and_payment_method": "Versand- und Zahlungsart",
+        "confirmation": "Bestätigung",
+        "personal_information": "Persönliche Daten",
+        "new_user": "Neuer Benutzer",
+        "back": "ZURÜCK",
+        "further": "WEITER",
+        "overview": "ÜBERSICHT",
+        "coupon_code": "Gutschein Code",
+        "use": "VERWENDEN",
+        "shipping": "Versand",
+        "free": "Kostenlos",
+        "total": "Gesamt",
+        "shipping_address": "Lieferungsadresse",
+        "invoice_address": "Rechnungsadresse",
+        "checkout": "Auschecken"
+    },
+    "order_history": {
+        "search_placeholder": "Autragsnummer oder Artikel",
+        "name": "AUFTRAG 123456",
+        "details": "BESTELLDETAILS",
+        "return": "AUFTRAG RETOURNIEREN",
+        "track_delivery": "LIEFERUNG VERFOLGEN",
+        "invoice": "RECHNUNG",
+        "items": "ARTIKEL",
+        "re_order": "Erneut bestellen",
+        "total": "Gesamt"
+    },
+    "address": {
+        "confirm": "Bestätigen",
+        "delete_confirm_message": "Sind Sie sicher, diese Adresse zu löschen?",
+        "yes": "JA",
+        "no": "NEIN",
+        "new_address": "Sie haben erfolgreich eine neue Adresse erstellt",
+        "edit_address": "Sie haben die Adresse erfolgreich geändert",
+        "delete_address": "Sie haben die Adresse erfolgreich gelöscht"
+    },
+    "rank": {
+        "self": "Rang",
+        "turn_over_description": "Umsatz bis zum nachsten Rang"
+    },
+    "support": {
+        "subject": "Betreff",
+        "email": "E-Mail Adresse",
+        "order": "Bestellnummer",
+        "attachment": "Anhang",
+        "message": "Nachricht",
+        "message_placeholder": "wie können wir helfen?",
+        "check_label": "Ich akzeptiere die Allgemeinen Geschäftsbedingungen und die Datenschutzerklärung",
+        "send": "senden"
+    },
+    "products": {
+        "manufacturer": "Hersteller",
+        "quality": "Qualität",
+        "product_quality_info": "Product Quality Info",
+        "price_from": "Preis ab",
+        "In_stock": "ab Lager",
+        "in_stock": "ab Lager",
+        "compare_remember": "Vergleichen & Merken",
+        "details_quickl_purchase": "Details & Schnellkauf",
+        "shoppingcart": "WARENKORB",
+        "cart": "Einkaufswagen",
+        "also_bought": "Kunden, die diesen Artikel gekauft haben, kauften auch:",
+        "technical_specifications": "Technische Daten",
+        "description": "Beschreibung",
+        "details": "Produktdetails",
+        "specialist": "Produkt Spezialist",
+        "tax_included": "Steuern inklusive",
+        "ready_to_ship": "versandfertig",
+        "compare": "Vergleichen",
+        "remember": "Merken",
+        "product": "Produkt",
+        "order_details": "Bestelldetails",
+        "amount": "Menge",
+        "unit_price": "STÜCKPREIS",
+        "total": "Gesamt",
+        "shipping": "Versand",
+        "use": "Verwenden",
+        "filter_by": "FILTERN NACH",
+        "clear": "Alles löschen",
+        "active_filters": "Aktive Filter",
+        "ask_question": "Stelle eine Frage",
+        "name": "Name",
+        "email": "Email",
+        "phone": "Telefon",
+        "message": "Botschaft",
+        "required_fileds": "Benötigte Felder",
+        "submit": "einreichen",
+        "scale_quantity": "Menge ab",
+        "your_discount": "Ihr Rabatt",
+        "discount_unit_price": "Stückpreis",
+        "query_sent": "Ihre Anfrage wird gesendet",
+        "quantity": "Anzahl",
+        "discount": "Rabatt",
+        "unitprice": "Stückpreis"
+    },
+    "compare": {
+        "no_compare": "Es gibt keine vergleichbaren Produkte.",
+        "remove_all": "Entfernen Sie alle Produkte",
+        "product": "produkt",
+        "composition": "Komposition",
+        "property": "Eigentum",
+        "quality": "Qualität",
+        "inside": "Ø innen",
+        "external": "Ø extern",
+        "width": "Breite"
+    },
+    "parallax": {
+        "title": "SCHNELL KATEGORIEN",
+        "description": "Bitte wählen Sie ihr Produkt aus 5 Artikeln",
+        "step": "SCHRITTE",
+        "choose": "AUSWÄHLEN",
+        "other_properties": "Weitere Eigenschaften",
+        "fewer": "Weniger",
+        "show_selection": "AUSWAHL ANZEIGEN"
+    },
+    "product_advisor": {
+        "title": "PRODUKTBERATER",
+        "description": "Nutzen Sie unseren Produktberater und lassen Sie sich bei der Suche nach dem richtigen Produkt helfen.",
+        "furthur": "Weiter",
+        "register": "Register",
+        "view_products": "View Products"
+    },
+    "last_order": {
+        "self": "STATUS IHRER LETZTEN BESTELLUNG",
+        "step_1": "Bestellung erhalten",
+        "step_2": "Zusammenstellung Ihrer Lieferung",
+        "step_3": "Qualitätskontrolle",
+        "step_4": "Versand"
+    },
+    "custom_text_1": {
+        "left": "Fachhändler für Kugellager,Lineartechnik & Keilriemen",
+        "right": "Genau die richtigen Kugellager für Profis in Fertigung, Service und Werkstatt: Bestellen Sie Ihre Standard Rillenkugellager, Nadellager oder andere technische Produkte direkt online. Einfach Ihre Lagertype oben in die Schnellsuche eingeben – fertig! Auch 2018 sind wir wieder mit Rat und Tat für Sie da. Wählen Sie aus über 35.000 Artikeln von SKF, FAG, INA, NSK, NKE und weiteren Premiummarken. Wir liefern SKF, FAG Wälzlager, Gehäuse und komplette Wälzlagereinheiten, Kegelrollenlager, Rillenkugellager, Rollenlager, Keilriemen, Simmerringe, Ersatzlager für Linearführungen sowie das INA Programm: Nadellager, Gelenklager, Gelenkköpfe in erster Linie für Industrieanlagen, Maschinenbau, Schifffahrt und Landtechnik. Dank umfassendem Lagerbestand wickeln wir Ihren Auftrag per Expressversand noch am gleichen Tag ab. Wir haben alle gelisteten Artikel im Bestand. Nicht gelistete Artikel fragen Sie gerne bei uns an. Versand ist täglich Montag bis Freitag per UPS-Paketdienst oder Spedition, für eilige Sendungen per Express, oder bei Maschinenstillstand noch am gleichen Tag per Direktfahrt zu Ihnen. Wir bevorraten alle Größen und Bauformen fabrikneuer Qualitätslager. Vom Rillen kugellager über Zylinderrollenlager, Pendelkugellager, Pendelrollenlager, Kegelrollenlager, Schrägkugellager, axiale Lager, Nadellager und Zubehör wie Hülsen, Gehäuse und Dichtringe. ekugellager.de ist ein reiner Online-Händler. Wir sind nicht vertraglich an einen einzelnen Hersteller gebunden. Wir bieten Ihnen eine sehr große Auswahl an Kugellagern der führenden Premiumhersteller."
+    },
+    "custom_text_2": {
+        "title": "Ihr Onlineshop für Kugellager, Lineartechnik & Keilriemen",
+        "description": "Nutzen Sie die Vorteile"
+    },
+    "manufacturer": {
+        "self": "HERSTELLER"
+    },
+    "contact": {
+        "free_shipping": {
+            "self": "VESANDKOSTENFREI",
+            "detail": "EUROPA WEIT AB 99€"
+        },
+        "sameday_shipping": {
+            "self": "VERSAND AM SELBEN TAG",
+            "detail": "MO-FR: 10:00 - 19 UHR"
+        },
+        "customer_service": {
+            "self": "KUNDENSERVICE",
+            "detail": "+49 (0)234 54 50 120"
+        },
+        "free_cutting": {
+            "self": "KOSTENFREIER ZUSCHNITT",
+            "detail": "NACH IHREN VORGABEN"
+        }
+    },
+    "footer": {
+        "newsletter":{
+            "title": "Erhalten Sie unsere neuesten Nachrichten und Sonderverkäufe",
+            "text1": "Sie können sich jederzeit abmelden. Zu diesem Zweck finden Sie unsere Kontaktinformationen im rechtlichen Hinweis.",
+            "text2": "Enim quis fugiat consequat elit minim nisi eu occaecat occaecat deserunt aliquip nisi ex deserunt.",
+            "email_placeholder": "deine Emailadresse",
+            "subscribe": "Abonnieren",
+            "sign_up": "Anmelden"
+        },
+        "contact": {
+            "self": "Kontakt"
+        },
+        "products": {
+            "self": "Produkte",
+            "about_us": "Über uns",
+            "shipping_process": "Versandprozess",
+            "quality_promise": "Qualitätsversprechen"
+        },
+        "information": {
+            "self": "Information",
+            "discount_levels": "Rabattstufen",
+            "quality_levels": "Qualitätsstufen",
+            "graduated_prices": "Staffelpreise",
+            "personal_statement": "Persona Erklärung"
+        },
+        "legal": {
+            "self": "Rechtliches",
+            "about_us": "Über uns",
+            "delivery_information": "Lieferinformationen",
+            "returns": "Kehrt zurück",
+            "privacy_policy": "Datenschutz-Bestimmungen"
+        },
+        "customer_service": {
+            "self": "Kundenservice",
+            "return": "Rückkehr",
+            "faq": "Faq",
+            "size_charts": "Größentabellen",
+            "cookie_preferences": "Cookie-Einstellungen"
+        },
+        "shippment_payment": {
+            "self": "Versand & Zahlung"
+        }
+    }
+}

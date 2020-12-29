@@ -1,0 +1,320 @@
+{
+    "English": "English",
+    "Deutsch": "Deutsch",
+    "placeholder": {
+        "email": "Email address",
+        "name": "Name",
+        "password": "Password"
+    },
+    "header": {
+        "home": "Home",
+        "clothes": "Clothes",
+        "men": "Men",
+        "women": "Women",
+        "search_for_catalog": "Search for Catalog",
+        "log_in_to_your_customer_account": "Log in to your customer account",
+        "nadellager": "Nadellager",
+        "axiallager": "Axiallager",
+        "kombinierte_exial_radiallager": "Kombinierte Axial-/ Radiallager",
+        "laufrolle": "Laufrolle",
+        "lineartechnik": "Lineartechnik",
+        "gehause_einheiten": "Gehäuse/-Einheiten",
+        "gleitlager": "Gleitlager",
+        "keilriemen": "Keilriemen",
+        "rillenkugellager": "Rillenkugellager",
+        "achragkugellager_spindellager": "Schrägkugellager/ Spindellager",
+        "spannlager_gehauselager": "Spannlager/ Gehäuselager",
+        "kegelrollenlager": "Kegelrollenlager"
+    },
+    "login": {
+        "log_in_to_your_account": "Login to your Account",
+        "sign_in": "Sign In",
+        "email": "E-mail",
+        "password": "Password",
+        "no_account": "No account?",
+        "create_one_here": "Create one here",
+        "forgot_your_password": "Forgot your password?",
+        "remember_me": "Remember Me",
+        "login": "Login"
+    },
+    "register": {
+        "register": "Register",
+        "social_title": "Social title",
+        "Mr": "Mr.",
+        "Mrs": "Mrs.",
+        "first_name": "First Name",
+        "last_name": "Last Name",
+        "email": "E-mail",
+        "password": "Password",
+        "birthday": "Birthdate",
+        "eg": "E.g.",
+        "receive_offers_from_our_partners": "Receive offers from our partners",
+        "sign_up_for_our_newsletter": "Sign up for our newsletter",
+        "you_may_unsubscribe_at_any_moment_for_that_purpose_please_find_our_contact_info_in_the_legal_notice": "You may unsubscribe at any moment. For that purpose, please find our contact info in the legal notice.",
+        "i_accept_the_terms_an_conditions_and_the_privacy_policy": "I accept the Terms And Conditions and the privacy policy",
+        "create_an_account": "Create an account",
+        "save": "Save",
+        "already_have_an_account": "Already have an account?",
+        "log_in_instead": "Log in instead!"
+    },
+    "password_recovery": {
+        "title": "Forgot your password?",
+        "email_address": "Email address",
+        "description": "Please enter the email address you used to register. You will receive a temporary link to reset your password.",
+        "send_link": "Send Reset Link",
+        "send": "Send",
+        "email_sent": "If this email address has been registered in our shop, you will receive a link to reset your password at ",
+        "new_password": "New Password",
+        "password_confirm": "Password Confirm",
+        "change_password": "Change Password",
+        "wrong_or_expired_link": "The password change request expired. You should ask for a new one.",
+        "back_to_login": "Back to login"
+    },
+    "account": {
+        "my_account": "My Account",
+        "order_history": "Order History",
+        "offene_posten": "Offene Posten",
+        "merchandise_returns": "Merchandise Returns",
+        "addresses": "Addresses",
+        "information": "Information",
+        "personal_advisor": "Personal Advisor",
+        "compare": "Compare",
+        "my_wishlist": "My Wishlist",
+        "contact_person": "Contact Person",
+        "order_templates": "Order Templates",
+        "support": "Support",
+        "contact_us": "Contact us",
+        "rank": "Rank",
+        "log_out": "Logout",
+        "order_reference": "Order Reference",
+        "date": "Date",
+        "total_price": "Total price",
+        "payment": "Payment",
+        "invoice": "Invoice",
+        "details": "Details",
+        "new_address": "New Address",
+        "update_your_address": "Update Your Address",
+        "alias": "Alias",
+        "first_name": "First Name",
+        "last_name": "Last Name",
+        "company": "Company",
+        "phone": "Phone",
+        "address": "Address",
+        "address_code": "Address Code",
+        "zip_postal_code": "Zip/Postal Code",
+        "city": "City",
+        "country": "Country",
+        "select_region": "Select Region",
+        "select_country": "Select Country",
+        "vat_number": "VAT Number",
+        "save": "save",
+        "create_address": "Create new address",
+        "countrySelectorLabel": "Country code",
+        "countrySelectorError": "Choose a country",
+        "phoneNumberLabel": "Phone number",
+        "example": "Example:"
+    },
+    "order": {
+        "delivery_and_billing_address": "Delivery and billing address",
+        "shipping_and_payment_method": "Shipping and payment method",
+        "confirmation": "Confirmation",
+        "personal_information": "Personal Information",
+        "new_user": "New User",
+        "back": "Back",
+        "further": "Further",
+        "overview": "Overview",
+        "coupon_code": "Coupon Code",
+        "use": "Use",
+        "shipping": "Shipping",
+        "free": "Free",
+        "total": "Total",
+        "shipping_address": "Shipping Address",
+        "invoice_address": "Invoice Address",
+        "checkout": "checkout"
+    },
+    "order_history": {
+        "search_placeholder": "Order number or article",
+        "name": "ORDER 123456",
+        "details": "ORDER DETAILS",
+        "return": "RETURN ORDER",
+        "track_delivery": "TRACK DELIVERY",
+        "invoice": "INVOICE",
+        "items": "ITEMS",
+        "re_order": "Re-Order", 
+        "total": "total"
+    },
+    "address": {
+        "confirm": "Confirm",
+        "delete_confirm_message": "Are you sure to delete this address?",
+        "yes": "YES",
+        "no": "NO",
+        "new_address": "You have created new address successfully",
+        "edit_address": "You have changed the address successfully",
+        "delete_address": "You have deleted the address successfully"
+    },
+    "rank": {
+        "self": "Rank",
+        "turn_over_description": "turnover up to the next rank"
+    },
+    "support": {
+        "subject": "Subject",
+        "email": "Email Address",
+        "order": "Order Reference",
+        "attachment": "Attachment",
+        "message": "Message",
+        "message_placeholder": "How can we help?",
+        "check_label": "Enim quis fugiat consequat elit minim nisi eu occaecat occaecat deserunt aliquip nisi ex deserunt.",
+        "send": "Send"
+    },
+    "products": {
+        "manufacturer": "Manufacturer",
+        "quality": "Quality",
+        "product_quality_info": "Product Quality Info",
+        "price_from": "Price from",
+        "In_stock": "In Stock",
+        "in_stock": "in Stock",
+        "compare_remember": "Compare & remember",
+        "details_quickl_purchase": "Details & Quick Purchase",
+        "shoppingcart": "Shoppingcart",
+        "cart": "Cart",
+        "also_bought": "Customers who bought this product also bought:",
+        "technical_specifications": "Technical Data",
+        "description": "Description",
+        "details": "Product Details",
+        "specialist": "Product Specialist",
+        "tax_included": "Tax included",
+        "ready_to_ship": "ready to ship",
+        "compare": "Compare",
+        "remember": "Remember",
+        "product": "product",
+        "order_details": "order details",
+        "amount": "amount",
+        "unit_price": "unit price",
+        "total": "total",
+        "shipping": "shipping",
+        "use": "use",
+        "filter_by": "FILTER BY",
+        "clear": "Clear",
+        "active_filters": "Active Filters",
+        "ask_question": "Ask a question",
+        "name": "Name",
+        "email": "Email",
+        "phone": "phone",
+        "message": "Message",
+        "required_fileds": "Required Fields",
+        "submit": "Submit",
+        "scale_quantity": "Scale quantity",
+        "your_discount": "Your discount",
+        "discount_unit_price": "Unit price",
+        "query_sent": "Your query is sent",
+        "quantity": "Quantity",
+        "discount": "Discount",
+        "unitprice": "Unit Price"
+    },
+    "compare": {
+        "no_compare": "There is no products to compare.",
+        "remove_all": "Remove all products",
+        "product": "product",
+        "composition": "composition",
+        "property": "property",
+        "quality": "quality",
+        "inside": "Ø inside",
+        "external": "Ø external",
+        "width": "width"
+    },
+    "parallax": {
+        "title": "FAST CATEGORIES",
+        "description": "Please choose your product from 5 articles",
+        "step": "STEPS",
+        "choose": "CHOOSE",
+        "other_properties": "Other Properties",
+        "fewer": "Fewer",
+        "show_selection": "Show Selection"
+    },
+    "product_advisor": {
+        "title": "PRODUCT ADVISOR",
+        "description": "Use our product advisor and let us help you find the right product.",
+        "furthur": "Further",
+        "register": "Register",
+        "view_products": "View Products"
+    },
+    "last_order": {
+        "self": "STATUS OF YOUR LAST ORDER",
+        "step_1": "Order received",
+        "step_2": "Composition of your delivery",
+        "step_3": "Quality control",
+        "step_4": "Shipping"
+    },
+    "custom_text_1": {
+        "left": "Specialist dealer for ball bearings, linear technology & V-belts",
+        "right": "Exactly the right ball bearings for professionals in production, service and workshop: Order your standard deep groove ball bearings, needle roller bearings or other technical products directly online. Simply enter your storage type in the quick search above - done! In 2018 we will be there for you again with advice and action. Choose from over 35,000 items from SKF, FAG, INA, NSK, NKE and other premium brands. We supply SKF, FAG rolling bearings, housings and complete rolling bearing units, tapered roller bearings, deep groove ball bearings, roller bearings, V-belts, Simmerrings, replacement bearings for linear guides as well as the INA program: needle bearings, spherical plain bearings, rod ends primarily for industrial plants, mechanical engineering, shipping and agricultural engineering. Thanks to our extensive inventory, we can process your order by express delivery on the same day. We have all listed items in stock. Please contact us for items that are not listed. Shipping is daily Monday to Friday by UPS parcel service or forwarding agent, for urgent shipments by express, or in the event of machine downtime by direct trip to you on the same day. We stock all sizes and types of brand new quality bearings. From deep groove ball bearings to cylindrical roller bearings, self-aligning ball bearings, spherical roller bearings, tapered roller bearings, angular contact ball bearings, axial bearings, needle bearings and accessories such as sleeves, housings and sealing rings. ekugellager.de is a pure online retailer. We are not contractually bound to a single manufacturer. We offer you a very large selection of ball bearings from the leading premium manufacturers."
+    },
+    "custom_text_2": {
+        "title": "Your online shop for ball bearings, linear technology & V-belts",
+        "description": "Take advantage of the benefits"
+    },
+    "manufacturer": {
+        "self": "MANUFACTURER"
+    },
+    "contact": {
+        "free_shipping": {
+            "self": "FREE SHIPPING",
+            "detail": "EUROPE WIDE FROM € 99"
+        },
+        "sameday_shipping": {
+            "self": "SAME DAY SHIPPING",
+            "detail": "MO-FR: 10:00 - 19 UHR"
+        },
+        "customer_service": {
+            "self": "CUSTOMER SERVICE",
+            "detail": "+49 (0)234 54 50 120"
+        },
+        "free_cutting": {
+            "self": "FREE CUTTING",
+            "detail": "ACCORDING TO YOUR SPECIFICATIONS"
+        }
+    },
+    "footer": {
+        "newsletter":{
+            "title": "Get our latest news and special sales",
+            "text1": "You may unsubscribe at any moment. For that purpose, please find our contact info in the legal notice.",
+            "text2": "Enim quis fugiat consequat elit minim nisi eu occaecat occaecat deserunt aliquip nisi ex deserunt.",
+            "email_placeholder": "Your email address",
+            "subscribe": "Subscribe",
+            "sign_up": "Sign Up"
+        },
+        "contact": {
+            "self": "Contact"
+        },
+        "products": {
+            "self": "Products",
+            "about_us": "about us",
+            "shipping_process": "Shipping process",
+            "quality_promise": "Quality promise"
+        },
+        "information": {
+            "self": "Information",
+            "discount_levels": "Discount levels",
+            "quality_levels": "Quality levels",
+            "graduated_prices": "Graduated prices",
+            "personal_statement": "Personal statement"
+        },
+        "legal": {
+            "self": "Legal",
+            "about_us": "About Us",
+            "delivery_information": "Develivery Informatioin",
+            "returns": "Returns",
+            "privacy_policy": "Privacy & Policy"
+        },
+        "customer_service": {
+            "self": "Customer service",
+            "return": "Return",
+            "faq": "Faq",
+            "size_charts": "Size Charts",
+            "cookie_preferences": "Cookie Preferences"
+        },
+        "shippment_payment": {
+            "self": "Shipment & Payment"
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+  "name": "ekugellager",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@fancyapps/fancybox": "^3.5.7",
+    "@fortawesome/fontawesome-svg-core": "^1.2.30",
+    "@fortawesome/free-solid-svg-icons": "^5.14.0",
+    "@fortawesome/vue-fontawesome": "^2.0.0",
+    "@inotom/vue-go-top": "^1.3.0",
+    "axios": "^0.20.0",
+    "bootstrap": "^4.5.2",
+    "bootstrap-vue": "^2.16.0",
+    "core-js": "^3.6.5",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.1",
+    "lodash": "^4.17.20",
+    "mdbvue": "^6.7.1",
+    "underscore": "^1.11.0",
+    "vue": "^2.6.12",
+    "vue-bootstrap-typeahead": "^0.2.6",
+    "vue-country-region-select": "^2.0.14",
+    "vue-error-page": "^1.1.7",
+    "vue-fancybox": "^1.0.3",
+    "vue-fontawesome-icon": "^1.3.0",
+    "vue-i18n": "^8.21.0",
+    "vue-loading-overlay": "^3.4.0",
+    "vue-meta": "^2.4.0",
+    "vue-notification": "^1.3.20",
+    "vue-numeric-input": "^1.0.6",
+    "vue-owl-carousel": "^2.0.3",
+    "vue-owl-carousel2": "^2.0.7",
+    "vue-phone-number-input": "^1.1.10",
+    "vue-router": "^3.2.0",
+    "vue-scrollto": "^2.20.0",
+    "vue-simple-search-dropdown": "^1.0.1",
+    "vue-slider-component": "^3.2.5",
+    "vue-zipcode-input": "^0.1.2",
+    "vuex": "^3.4.0",
+    "vuex-persistedstate": "^3.1.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/eslint-config-standard": "^5.1.2",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "eslint-plugin-vue": "^6.2.2",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "@vue/standard"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
